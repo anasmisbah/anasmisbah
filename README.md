@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @anasmisbah
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on mobile project
-
-<!---
-anasmisbah/anasmisbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello there  
+Writing code, breaking things, fixing them again.  
+Powered by coffee, deadlines, and AI.  
+If it works, don’t touch it — if it breaks, I wasn’t here.  
+Building stuff on the internet because… why not.
+Vibe coding enjoyer
